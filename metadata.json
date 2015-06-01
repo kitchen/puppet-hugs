@@ -1,0 +1,14 @@
+{
+  "name": "kitchen-hugs",
+  "version": "1.0.0",
+  "author": "Jeremy Kitchen",
+  "summary": "hugs",
+  "license": "GPL",
+  "source": "http://github.com/kitchen/puppet-hugs",
+  "project_page": "https://github.com/kitchen/puppet-hugs",
+  "issues_url": "https://github.com/kitchen/puppet-hugs/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
